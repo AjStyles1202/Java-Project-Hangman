@@ -23,31 +23,6 @@ For each incorrect guess, you lose one attempt.
 You win by guessing all the letters in the word before running out of attempts.
 
 
-How to Run
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/hangman-game.git
-
-
-Navigate to the project directory:
-bash
-Copy code
-cd hangman-game
-
-
-Compile the Java file:
-bash
-Copy code
-javac HangmanGame.java
-
-
-Run the program:
-bash
-Copy code
-java HangmanGame
-
-
 Word List
 The game uses a small list of fruit names. The current word list includes:
 
